@@ -8,7 +8,7 @@ let mahasiswa = {
     alamat : {
         kecamatan : "Pariaman Tengah",
         kota : "Pariaman"
-    },
+    }
 }
 let angkatan = 2023;
 let iskuliah = true;
